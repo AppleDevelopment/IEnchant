@@ -1,0 +1,10 @@
+name: IEnchant
+version: 1.0
+main: com.sky8the2flies.ienchant.Main
+author: [sky8the2flies]
+description: Adds enchantment to usable item from the IEnchant sign
+depend: [Essentials]
+commands:
+   tokens:
+      description: Main usage - /tokens help
+      aliases: ienchant

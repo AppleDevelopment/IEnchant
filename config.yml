@@ -1,0 +1,91 @@
+# ###################### #
+# Made by sy8the2flies   #
+# Use ~ for color codes  #                                                    
+# ###################### #
+# Permissions:
+# ienchant.create
+# ienchant.add
+# ienchant.remove
+# ienchant.check
+# ienchant.use
+# ienchant.help
+signName: "[~aIEnchant~0]"
+                                                                                                                                               
+signAlias: "[ie]" 
+
+signBottom: "~a<~2++~a>"
+
+notEnoughFunds: "~cYou do not have sufficient funds for this enchant!"
+
+itemNotValid: "~cThe item you are holding is invalid!"
+
+enchantmentNotValid: "~cThe enchantment on the sign is invalid!"
+
+prefix: "~6[~5IEnchant~6]"
+
+validEnchants:
+  - power
+  - flame
+  - infinity
+  - punch
+  - sharpness
+  - baneofa
+  - smite
+  - unbreaking
+  - fire_aspect
+  - knockback
+  - fortune
+  - looting
+  - respiration
+  - efficiency
+  - protection
+  - blastprot
+  - featherfall
+  - fireprot
+  - arrowprot
+  - silk_touch
+  - thorns
+  - aquafinity
+
+validItems:
+  - 256
+  - 257
+  - 258
+  - 261
+  - 267
+  - 268
+  - 269
+  - 270
+  - 271
+  - 272
+  - 273
+  - 274
+  - 275
+  - 276
+  - 277
+  - 278
+  - 279
+  - 283
+  - 284
+  - 285
+  - 286
+  - 298
+  - 299
+  - 300
+  - 301
+  - 302
+  - 303
+  - 304
+  - 305
+  - 306
+  - 307
+  - 308
+  - 309
+  - 310
+  - 311
+  - 312
+  - 313
+  - 314
+  - 315
+  - 316
+  - 317
